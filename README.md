@@ -20,10 +20,6 @@ Busco desenvolver minhas habilidades como programador e futuramente atuar como d
 - Algoritmos
 - Programação Orientada a Objetos
 
-## 📂 Projetos
-
-Em breve estarei publicando projetos em Java aqui no meu GitHub.
-
 ## 📫 Contato
 
 LinkedIn:  
