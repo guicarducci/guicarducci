@@ -19,6 +19,7 @@ Busco desenvolver minhas habilidades como programador e futuramente atuar como d
 - Git e GitHub
 - Algoritmos
 - Programação Orientada a Objetos
+- C/C++
 
 ## 📫 Contato
 
